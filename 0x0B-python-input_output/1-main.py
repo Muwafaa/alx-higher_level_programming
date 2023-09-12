@@ -8,4 +8,3 @@ guillaume@ubuntu:~/0x0B$ ./1-main.py
 29
 guillaume@ubuntu:~/0x0B$ cat my_first_file.txt
 This School is so cool!
-guillaume@ubuntu:~/0x0B$
